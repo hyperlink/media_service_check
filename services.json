@@ -1,0 +1,32 @@
+{
+	"services": [
+		{
+			"name": "CouchPotato",
+			"port": 5050
+		},
+		{
+			"name": "Plexconnect",
+			"successStatus": 403
+		},
+		{
+			"name": "sickbeard",
+			"port": 8081,
+			"path": "/home/"
+		},
+		{
+			"name": "Plex Media Server",
+			"port": 32400
+		},
+		{
+			"name": "sabnzbd",
+			"port": 8080
+		},
+		{
+			"name": "uTorrent",
+			"port": 28444,
+			"path": "/gui/",
+			"successStatus": 401
+		}
+	],
+	"timeout": 10000
+}
