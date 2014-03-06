@@ -2,10 +2,10 @@
 
 A simple node script to check on the status of your media services without launching a browser. Can be configured to check different web services.
 
+![screenshot](https://dl.dropboxusercontent.com/u/4721128/screenshots/msc.gif)
 
 
 ## Install
-
 
 1. Install node
 2. Checkout code
