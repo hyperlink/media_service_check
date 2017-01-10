@@ -9,6 +9,6 @@
   "author": "Xiaoxin Lu <javascript@yahoo.com>",
   "license": "MIT",
   "dependencies": {
-    "colors": "~0.6.2"
+    "colors": "~1.1.2"
   }
 }
